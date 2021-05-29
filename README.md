@@ -1,6 +1,6 @@
 # Pokedex #
 
-This is my Pokedex app
+This is my Pokedex app. /Pictures 1, 2 and 3 are previews of the project.
 
 ### Instructions
 1.- Create a React App
